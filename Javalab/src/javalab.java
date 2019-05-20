@@ -88,8 +88,28 @@ public static void step4() {
  static void playWithStrings(){
         String firstName = new String("Tiquila ");
         String lastName= new String("McNeill");
-        String name = firstName.concat(lastName);
-     System.out.println("Hello " + name);
-     System.out.println("Hello " + firstName + lastName);
+        String name = "Hello" + firstName.concat(lastName);
+     System.out.println(name);
+     //System.out.println("Hello " + firstName + lastName);
+
+     int name1 =name.length();
+     System.out.println("The total length of the string name Tiquila McNeill is " + name1);
+
+     int name2 = name.indexOf("o");
+     System.out.println("The letter o appears at " + name2 + " in the string");
+
+     char name3 = name.charAt(7);
+     System.out.println("The characters at position at 7 in the string is " + name3);
+
+     boolean name4 =name.contains("son");
+     System.out.println("This name does not contain son: (T/F) " + name4);
+
+String name5 = name.substring(15,20);
+     System.out.println("The last five letters in the name are " + name5);
+
+boolean name6 = name.contains("-") || name.contains("'");
+     System.out.println("This name does not contain - or and ' : (T or F)  " + name6);
+
+
  }
     }
