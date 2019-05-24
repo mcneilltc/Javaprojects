@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javalab.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="-1445">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
+    <option name="x" value="76" />
     <option name="y" value="23" />
     <option name="width" value="1109" />
     <option name="height" value="837" />
@@ -54,7 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,7 +66,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,17 +119,18 @@
       <workItem from="1558359206010" duration="12013000" />
       <workItem from="1558385314909" duration="3097000" />
       <workItem from="1558462082132" duration="2000" />
+      <workItem from="1558620174277" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15112000" />
+    <option name="totallyTimeSpent" value="15160000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="23" width="1109" height="837" extended-state="0" />
+    <frame x="76" y="23" width="1109" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33083412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33645737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -167,7 +168,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/javalab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="-1445">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
