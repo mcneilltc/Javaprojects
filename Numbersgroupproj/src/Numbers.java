@@ -195,7 +195,7 @@ public class Numbers {
         if (answer == 'n'){
             System.out.println("Thank you for playing");
         }else if(answer == 'y'){
-            return Survey();
+            //return Survey();
         }else{
             System.out.println("You have an invalid response");
         }

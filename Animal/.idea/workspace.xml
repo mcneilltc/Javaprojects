@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3451bd-040c-44f6-b443-7ea973322825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sorting/Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting/src/SortingArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_control_flow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_control_flow/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bookstore/Bookstore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNums/PrimeNums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Squaredigits/Squaredigits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/TowerOfHanoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gazelle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gazelle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Orangutan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Orangutan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tigershark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tigershark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,52 +31,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+        <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Orangutan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tigershark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gazelle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="168">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/BearTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <caret selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zoo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Turtle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TurtleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -71,32 +104,54 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/Class.java" />
+        <option value="$PROJECT_DIR$/src/Family.java" />
+        <option value="$PROJECT_DIR$/src/Genus.java" />
+        <option value="$PROJECT_DIR$/src/Kingdom.java" />
+        <option value="$PROJECT_DIR$/src/Phylum.java" />
+        <option value="$PROJECT_DIR$/src/Order.java" />
+        <option value="$PROJECT_DIR$/src/Bear.java" />
+        <option value="$PROJECT_DIR$/src/Eagle.java" />
+        <option value="$PROJECT_DIR$/src/Gazelle.java" />
+        <option value="$PROJECT_DIR$/src/Jellyfish.java" />
+        <option value="$PROJECT_DIR$/src/Orangutan.java" />
+        <option value="$PROJECT_DIR$/src/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/Horse.java" />
+        <option value="$PROJECT_DIR$/src/Tigershark.java" />
+        <option value="$PROJECT_DIR$/src/Turtle.java" />
+        <option value="$PROJECT_DIR$/src/Bee.java" />
+        <option value="$PROJECT_DIR$/src/Animal.java" />
+        <option value="$PROJECT_DIR$/src/BearTest.java" />
+        <option value="$PROJECT_DIR$/src/TurtleTest.java" />
+        <option value="$PROJECT_DIR$/src/Zoo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="137" />
-    <option name="y" value="137" />
+    <option name="x" value="56" />
+    <option name="y" value="185" />
     <option name="width" value="1210" />
     <option name="height" value="837" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,14 +169,36 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,6 +212,65 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.TurtleTest">
+    <configuration name="BearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Animal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.fly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Animal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="fly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.move" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Animal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="move" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Animal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TurtleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleTest.eat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Animal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TurtleTest" />
+      <option name="METHOD_NAME" value="eat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TurtleTest" />
+        <item itemvalue="JUnit.TurtleTest.eat" />
+        <item itemvalue="JUnit.BearTest" />
+        <item itemvalue="JUnit.BearTest.move" />
+        <item itemvalue="JUnit.BearTest.fly" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -145,84 +281,242 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559096856116</updated>
-      <workItem from="1559096859060" duration="211000" />
+      <workItem from="1559096859060" duration="1229000" />
+      <workItem from="1559131877840" duration="18161000" />
+      <workItem from="1559271758069" duration="7396000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BearTest_eat - 2019.05.29 at 17h 07m 59s.xml">
+      <configuration name="BearTest.eat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_eat - 2019.05.29 at 17h 08m 50s.xml">
+      <configuration name="BearTest.eat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_sleep - 2019.05.29 at 17h 10m 49s.xml">
+      <configuration name="BearTest.sleep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_fly - 2019.05.29 at 17h 12m 22s.xml">
+      <configuration name="BearTest.fly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.05.29 at 17h 13m 21s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.05.30 at 13h 55m 30s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_fly - 2019.05.30 at 15h 04m 31s.xml">
+      <configuration name="BearTest.fly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest_move - 2019.05.30 at 15h 04m 46s.xml">
+      <configuration name="BearTest.move" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearTest - 2019.05.30 at 15h 04m 57s.xml">
+      <configuration name="BearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurtleTest - 2019.05.30 at 15h 11m 29s.xml">
+      <configuration name="TurtleTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211000" />
+    <option name="totallyTimeSpent" value="26786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="137" y="137" width="1210" height="837" extended-state="0" />
+    <frame x="56" y="185" width="1210" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21832192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32921812" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32921812" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+    <entry file="file://$PROJECT_DIR$/src/Species.java" />
+    <entry file="file://$PROJECT_DIR$/src/Family.java" />
+    <entry file="file://$PROJECT_DIR$/src/Phylum.java" />
+    <entry file="file://$PROJECT_DIR$/src/Order.java" />
+    <entry file="file://$PROJECT_DIR$/src/Class.java" />
+    <entry file="file://$PROJECT_DIR$/src/Kingdom.java" />
+    <entry file="file://$PROJECT_DIR$/src/Genus.java" />
+    <entry file="file://$PROJECT_DIR$/src/Eagle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Orangutan.java">
+    <entry file="file://$PROJECT_DIR$/src/Jellyfish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tigershark.java">
+    <entry file="file://$PROJECT_DIR$/src/Horse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="63">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gazelle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="126">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tigershark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Orangutan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TurtleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Turtle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
