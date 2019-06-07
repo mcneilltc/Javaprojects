@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c80731b-7bd5-4c6d-a891-fcec074e08ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Animal/src/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bookstore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimeNums/PrimeNums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Squaredigits/Squaredigits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/TowerOfHanoi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/Animal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/Animal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Gazelle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Gazelle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Orangutan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Orangutan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Tigershark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Tigershark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,16 +21,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bookstore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1722">
-              <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+            <state relative-caret-position="485">
+              <caret line="111" column="2" selection-start-line="111" selection-start-column="2" selection-end-line="113" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3430#3431#0" expanded="true" />
@@ -71,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="7" />
+            <state relative-caret-position="294">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,7 +120,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="115" />
+    <option name="x" value="430" />
     <option name="y" value="23" />
     <option name="width" value="1210" />
     <option name="height" value="877" />
@@ -169,6 +158,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -256,7 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559228090916</updated>
       <workItem from="1559228092515" duration="39379000" />
-      <workItem from="1559677105944" duration="4806000" />
+      <workItem from="1559677105944" duration="8457000" />
     </task>
     <servers />
   </component>
@@ -284,10 +274,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44185000" />
+    <option name="totallyTimeSpent" value="47836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="23" width="1210" height="877" extended-state="1" />
+    <frame x="430" y="23" width="1210" height="877" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -373,16 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CornerStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -390,13 +371,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -410,10 +384,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Store.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -422,12 +403,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bookstore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
-          <caret line="82" column="41" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        <state relative-caret-position="485">
+          <caret line="111" column="2" selection-start-line="111" selection-start-column="2" selection-end-line="113" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3430#3431#0" expanded="true" />
             <element signature="e#3459#3460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7894ceca-f8e5-46ec-be23-48516eb5dc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Animal/src/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bookstore/Bookstore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimeNums/PrimeNums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Squaredigits/Squaredigits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/TowerOfHanoi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TowerOfHanoi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/Animal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/Animal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Gazelle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Gazelle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Orangutan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Orangutan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animal/src/Tigershark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Animal/src/Tigershark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$Survey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$lottoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers$random.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/out/production/Numbersgroupproj/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/src/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaoops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="-53">
               <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
@@ -127,6 +117,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -204,7 +195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559653836174</updated>
-      <workItem from="1559653838619" duration="6377000" />
+      <workItem from="1559653838619" duration="6542000" />
     </task>
     <servers />
   </component>
@@ -217,10 +208,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6377000" />
+    <option name="totallyTimeSpent" value="6542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="474" y="63" width="966" height="837" extended-state="0" />
+    <frame x="474" y="63" width="966" height="837" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -278,7 +270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="-53">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
