@@ -79,11 +79,11 @@ switch (letter){
         checkpuzzle();
         break;
  }
-public static void solvepuzzle(){
-    System.out.println("What's your answer");
-    if(secretPhrase == guess){
-        System.out.println("you solved the puzzle!");
+}
+    public static void solvepuzzle(){
+        System.out.println("What's your answer");
+        if(secretPhrase == guess){
+            System.out.println("you solved the puzzle!");
+        }
     }
-}
-}
 }
