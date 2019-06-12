@@ -47,7 +47,7 @@ public static void choices(){
 //
         break;
         case 2:
-             Spin.spinWheel();//spinwheel
+             //Spin.spinWheel();//spinwheel
             System.out.println("Would you like to spin the wheel? Y/N");
 //
         break;

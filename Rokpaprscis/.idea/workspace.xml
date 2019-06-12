@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cc56b46-23f4-4bc4-ae95-1bb130b1b920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Puzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Spin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/rps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -58,7 +64,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="578" />
+    <option name="x" value="40" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
@@ -119,14 +125,15 @@
       <updated>1558100915041</updated>
       <workItem from="1558100931391" duration="4895000" />
       <workItem from="1559750115622" duration="4148000" />
+      <workItem from="1560223542037" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9043000" />
+    <option name="totallyTimeSpent" value="9640000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="578" y="23" width="1400" height="837" extended-state="1" />
+    <frame x="40" y="23" width="1400" height="837" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.11377245" />
@@ -136,7 +143,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" visible="true" weight="0.21723123" />
+      <window_info id="Learn" order="7" visible="true" weight="0.22017673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36644295" />
@@ -172,7 +179,7 @@
     <entry file="file://$PROJECT_DIR$/src/rps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

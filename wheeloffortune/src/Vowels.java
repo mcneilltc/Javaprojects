@@ -9,8 +9,9 @@ public class Vowels {
      vowels.add('I');
      vowels.add('O');
      vowels.add('U');
+     System.out.println(vowels);
      int v;
-int buyvow = v * -50;
+int buyvow = -50;
 switch(buyvow){
     case 1:
 
@@ -23,6 +24,6 @@ switch(buyvow){
          if(!vowels.contains((char)i)){
              otherlets.add((char) i);
          }
-     }
+     }System.out.println(otherlets);
     }
 }

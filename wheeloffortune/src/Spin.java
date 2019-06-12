@@ -1,48 +1,50 @@
 import java.util.Random;
 
-import static jdk.internal.org.jline.terminal.MouseEvent.Type.Wheel;
 
-public class Spin {
 
-    public static void spinWheel() {
+//public class Spin {
+//
+//    public static void spinWheel() {
+//
+//         int bankrupt = -1;
+//         int loseTurn = 0;
+//        Random generator;
+//        int position;
+//
+//          void Wheel(){
+//            generator = new Random();
+//            position = bankrupt;
+//        }
+//
+//public int getState(){
+//            int score;
+//            switch(position){
+//                case 0:
+//                    score = bankrupt;
+//                    break;
+//                case 1:
+//                    score = 100;
+//                    break;
+//                case 2:
+//                    score = 500;
+//                    break;
+//                case 3:
+//                    score = 1000;
+//                    break;
+//                case 4:
+//                    score = loseTurn;
+//                default:
+//                    System.out.println("Invalid Spin");
+//
+//                    break;
+//            }return score;
+//        }
+//        public void spin(){
+//            position = generator.nextInt(5);
+//        }
+//    }// end psv spinWheel
 
-         int bankrupt = -1;
-         int loseTurn = 0;
-        Random generator;
-        int position;
 
-          void Wheel(){
-            generator = new Random();
-            position = bankrupt;
-        }
-
-public int getState(){
-            int score;
-            switch(position){
-                case 0:
-                    score = bankrupt;
-                    break;
-                case 1:
-                    score = 100;
-                    break;
-                case 2:
-                    score = 500;
-                    break;
-                case 3:
-                    score = 1000;
-                    break;
-                case 4:
-                    score = loseTurn;
-                default:
-                    System.out.println("Invalid Spin");
-
-                    break;
-            }return score;
-        }
-        public void spin(){
-            position = generator.nextInt(5);
-        }
-    }// end psv spinWheel
 //       String player = "";
 //        int onehun ;
 //        int fivehun ;
@@ -81,7 +83,7 @@ public int getState(){
 //       // System.out.println();
 //    }
 
-    public static void score(){
-
-    }
-}
+//    public static void score(){
+//
+//    }
+//}

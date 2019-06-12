@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d21f8a2-7ae3-4812-91b2-21af87fca095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbersgroupproj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Puzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Spin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +34,7 @@
     <favorites_list name="Library" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,7 +56,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LibraryItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1449">
+            <state relative-caret-position="627">
               <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
@@ -94,7 +100,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="139" />
-    <option name="y" value="69" />
+    <option name="y" value="63" />
     <option name="width" value="1223" />
     <option name="height" value="837" />
   </component>
@@ -107,6 +113,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,14 +175,15 @@
       <option name="presentableId" value="Default" />
       <updated>1559672762798</updated>
       <workItem from="1559672764518" duration="8017000" />
+      <workItem from="1560223530277" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8017000" />
+    <option name="totallyTimeSpent" value="8611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="69" width="1223" height="837" extended-state="1" />
+    <frame x="139" y="63" width="1223" height="837" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" />
@@ -184,10 +191,9 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19559695" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19898391" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" weight="0.32938188" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
@@ -200,6 +206,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32921812" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -466,7 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LibraryItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
+        <state relative-caret-position="627">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
