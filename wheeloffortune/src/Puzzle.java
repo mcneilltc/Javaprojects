@@ -39,6 +39,7 @@ while(guess == ""){
         }}
 
     System.out.println("Choose your letter:");
+     System.out.println(Vowels.letters(otherlets));
     String letter = keyboard.next();
 
 switch (letter){
