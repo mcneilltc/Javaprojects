@@ -32,7 +32,7 @@ String guess = "";
 Scanner keyboard = new Scanner(System.in);
 while(guess == ""){
     for (char otherlets : secretPhrase.toCharArray()){
-        if (guess.indexOf() {
+        if (guess.indexOf()) {
             System.out.println('*');} else{
             System.out.println(otherlets);
         }
