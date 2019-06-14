@@ -10,6 +10,7 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 
 public class Puzzle {
+    Vowels vowels = new Vowels(puzzle);
     private String category = "Something";
     private String solvedPuzzle = "";
     private String puzzleProgress ="";
@@ -28,10 +29,10 @@ try (Stream<String> lines = Files.lines(path)){
 RandomPuzzle();
     }
 
-    public String padLeft(String s, int n){
+    public static String padLeft(String s, int n){
         return String.format("%" +n + "s", s);
     }
-    public void RandomPuzzle(){
+    public static void RandomPuzzle(){
         Random rand = new Random();
         int puzzleIndex = rand.nextInt(this.puzzles.size());
     this.category = "Something";

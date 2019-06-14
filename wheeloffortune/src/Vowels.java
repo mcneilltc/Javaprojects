@@ -1,9 +1,13 @@
 import java.util.ArrayList;
 
 public class Vowels {
-     ArrayList<Character> vowels;
-Vowels vowels = new Vowels();
-    public  void isVowel() {
+    static ArrayList<Character> vowels;
+
+    public Vowels(Vowels vowels) {
+        this.vowels = vowels;
+    }
+
+    public static void isVowel() {
         vowels = new ArrayList<>();
         vowels.add('A');
         vowels.add('E');
@@ -16,7 +20,7 @@ Vowels vowels = new Vowels();
 
     }
 
-    public  void letters() {
+    public static void letters() {
         ArrayList<Character> otherlets = new ArrayList<>();
         for (int i = 65; i <= 90; i++) {
             if (!vowels.contains((char) i)) {

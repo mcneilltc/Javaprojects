@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9d21f8a2-7ae3-4812-91b2-21af87fca095" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Puzzles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
@@ -47,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LibraryItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -168,11 +173,12 @@
       <workItem from="1559672764518" duration="8017000" />
       <workItem from="1560223530277" duration="1192000" />
       <workItem from="1560363871229" duration="594000" />
+      <workItem from="1560518920114" duration="564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9803000" />
+    <option name="totallyTimeSpent" value="10367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="63" width="1223" height="837" extended-state="1" />
@@ -183,9 +189,10 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20237087" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20575783" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" weight="0.32938188" />
+      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
@@ -465,8 +472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LibraryItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
         </state>
       </provider>
     </entry>

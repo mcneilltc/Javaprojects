@@ -1,0 +1,12 @@
+
+{
+user{
+id: String!
+}
+}
+
+{
+points{
+id: Integer!
+}
+}

@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Players {
-     ArrayList<String> players = new ArrayList<>();
+     static ArrayList<String> players = new ArrayList<>();
       int score = 0;
-    public  void players() {
+    public static  void players() {
 //        String player = new player("");
 //        System.out.println("Enter your name: ");
         Scanner name = new Scanner(System.in);
@@ -31,9 +31,28 @@ public class Players {
         System.out.println(players);
     }//end psvoid players
 
-Puzzle puzzle = new Puzzle();
+    public static void setPlayers(ArrayList<String> players) {
+        Players.players = players;
+    }
 
-    public void choices(){
+    public static ArrayList<String> getPlayers() {
+        return players;
+    }
+do{
+        Puzzle puzzle = new Puzzle();
+        do{
+            for(int i = 0; i <numplayers; i++){
+                Player currentPlayer = players.get(i);
+                boolean playerTurnOver =false;
+                do{
+
+                }while(playerTurnOver ==false);
+            }
+        }while(exitGame ==false  && puzzle.isSovled() ==false);
+    }while(exitGame ==false);
+
+
+    public static void choices(){
     Scanner choice = new Scanner(System.in);
     System.out.println(" Make a choice: 1 - Solve Puzzle, 2 - Spin Wheel,  3 - Buy a Vowel, 0 - Quit Game");
     //char answer = choice.next().toLowerCase().charAt(0);
@@ -72,7 +91,7 @@ Puzzle puzzle = new Puzzle();
     public int getScore(){// return the players current score
         return score;
     }
-    public int addToScore(int score){// add a specified amount to the players score
+    public static int addToScore(int score){// add a specified amount to the players score
         score += score;
         return score;
     }

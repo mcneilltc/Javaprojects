@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c80731b-7bd5-4c6d-a891-fcec074e08ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Puzzles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Vowels.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
@@ -130,8 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,6 +151,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,6 +251,7 @@
       <workItem from="1559677105944" duration="9818000" />
       <workItem from="1560223536129" duration="1949000" />
       <workItem from="1560363876705" duration="596000" />
+      <workItem from="1560518921325" duration="444000" />
     </task>
     <servers />
   </component>
@@ -273,7 +279,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51742000" />
+    <option name="totallyTimeSpent" value="52186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="23" width="1210" height="877" extended-state="1" />
@@ -285,8 +291,9 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26284248" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26712328" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" />

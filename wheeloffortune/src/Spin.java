@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Spin {
 //
-    public void spinWheel() {
+    public static void spinWheel() {
         int spinw = 0;
         Random spin = new Random();
 spinw = spin.nextInt(4)+1;
