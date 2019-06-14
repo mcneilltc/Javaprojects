@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 
 public class Puzzle {
-    Vowels vowels = new Vowels(puzzle);
+    //Vowels vowels = new Vowels(puzzle);
     private String category = "Something";
     private String solvedPuzzle = "";
     private String puzzleProgress ="";
@@ -32,7 +32,7 @@ RandomPuzzle();
     public static String padLeft(String s, int n){
         return String.format("%" +n + "s", s);
     }
-    public static void RandomPuzzle(){
+    public void RandomPuzzle(){
         Random rand = new Random();
         int puzzleIndex = rand.nextInt(this.puzzles.size());
     this.category = "Something";
@@ -40,7 +40,7 @@ RandomPuzzle();
     this.puzzleProgress = padLeft("", this.solvedPuzzle.length());
     applyLetterProgress(' ');
     }
-public boolean sovelPuzzle(String guess){
+public boolean solvePuzzle(String guess){
         if(guess.toUpperCase().trim().equals(this.solvedPuzzle)){
             this.puzzleProgress = this.solvedPuzzle;
             return true;
