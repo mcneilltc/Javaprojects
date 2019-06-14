@@ -8,6 +8,7 @@ public class Spin {
         int spinw = 0;
         Random spin = new Random();
         spinw = spin.nextInt(4) + 1;
+        System.out.println(spinw);
         do {
             switch (spinw) {
                 case 0:
@@ -20,6 +21,7 @@ public class Spin {
                     break;
                 case 2:
                     //add if
+                    System.out.println("Works");
                     Players.score = Players.score + 500;
                     break;
                 case 3:

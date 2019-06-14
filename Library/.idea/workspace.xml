@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d21f8a2-7ae3-4812-91b2-21af87fca095" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/out/production/wheeloffortune/Players.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
