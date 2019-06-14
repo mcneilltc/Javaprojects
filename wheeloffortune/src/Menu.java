@@ -3,7 +3,7 @@ public class Menu {
 //Players.players();
 //Players.choices();
 //Spin.spinWheel();
-Vowels.buyvowel();
-Vowels.letters();
+//Vowels.buyvowel();
+//Vowels.letters();
     }
 }

@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9d21f8a2-7ae3-4812-91b2-21af87fca095" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Domain/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Domain/CustomerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Players {
     static ArrayList<String> players = new ArrayList<>();
+     static int score = 0;
     public static void players() {
 //        String player = new player("");
 //        System.out.println("Enter your name: ");
@@ -26,11 +27,13 @@ public class Players {
         }
         while(answer == 'y');
         System.out.println("Ok lets play Wheel of Fortune");
-
+//numPlayers = players.size();
         System.out.println(players);
     }//end psvoid players
 
-public static void choices(){
+Puzzle puzzle = new Puzzle();
+
+    public static void choices(){
     Scanner choice = new Scanner(System.in);
     System.out.println(" Make a choice: 1 - Solve Puzzle, 2 - Spin Wheel,  3 - Buy a Vowel, 0 - Quit Game");
     //char answer = choice.next().toLowerCase().charAt(0);
@@ -47,8 +50,9 @@ public static void choices(){
 //
         break;
         case 2:
-             //Spin.spinWheel();//spinwheel
-            System.out.println("Would you like to spin the wheel? Y/N");
+            Spin.spinWheel();//spinwheel
+            System.out.println("Spinning the wheel...");
+            System.out.println("Enter a letter: ");//get consonant
 //
         break;
         case 3:
@@ -64,4 +68,12 @@ public static void choices(){
 
 
 }//end psv choices
+
+    public int getScore(){// return the players current score
+        return score;
+    }
+    public int addToScore(int score){// add a specified amount to the players score
+        score += score;
+        return score;
+    }
 }// end class Players
