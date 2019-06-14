@@ -25,7 +25,7 @@ public class Vowels {
         }
         System.out.println(otherlets);
     }
-public static void letterchoice() {
+
     public int instances (Character otherlets){// # of instances a letter appears in puzzle
         int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "").length();
         String text = "There are ";
@@ -37,7 +37,7 @@ public static void letterchoice() {
     }
 
     public int vowinstances (Character vowels){//# of instances a vowel appears in puzzle
-        int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "")
+        int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "");
         String text = "There are ";
         if (count == 0) {
             text = "There is ";
@@ -45,16 +45,16 @@ public static void letterchoice() {
         System.out.println(text + count + "\"" + vowels + "\"'s");
         return count;
     }
-}
+
     public int guessLetter(Character otherlets) {//guessing a letter out of the consonants
         otherlets = Character.toUpperCase(otherlets);
         if (Character.isLetter(otherlets) == false) {
             System.out.println("No \"" + otherlets + "\" is not in the puzzle.");
             return 0;
         } else if (Character.isLetter(otherlets) == true) {
-            letterchoice(instances);
+
         }
-        return 1;
+        return Spin.spinWheel(spinw) * instances(otherlets);
     }//end of guesslesster
 
     public int buyvowel(Character vowels) {//buying a vowel out of those available
@@ -64,6 +64,6 @@ public static void letterchoice() {
             return 0;
         } else if (Character.isLetter(vowels) == true) {
 
-        }return -50 * vowinstances;
+        }return -50 * vowinstances(vowels);
     }
 }
