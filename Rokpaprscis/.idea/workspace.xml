@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0cc56b46-23f4-4bc4-ae95-1bb130b1b920" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookstore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Spin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wheeloffortune/src/Vowels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="40" />
     <option name="y" value="63" />
     <option name="width" value="1400" />
@@ -124,7 +120,7 @@
     <option name="totallyTimeSpent" value="13113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="63" width="1400" height="837" extended-state="1" />
+    <frame x="40" y="63" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.11377245" />
