@@ -4,8 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Players {
-     static ArrayList<String> players = new ArrayList<>();
-     public static int score = 0;
+    static public static int score = 0;
      Spin spin = new Spin();
     public static  void players() {
 //        String player = new player("");

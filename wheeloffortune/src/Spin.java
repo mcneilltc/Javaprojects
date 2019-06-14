@@ -9,7 +9,6 @@ public class Spin {
         Random spin = new Random();
         spinw = spin.nextInt(4) + 1;
         System.out.println(spinw);
-        do {
             switch (spinw) {
                 case 0:
                     System.out.println("Bankrupt");
@@ -31,9 +30,7 @@ public class Spin {
                     Players.score = Players.score + 0;
                     System.out.println("You lose a turn");
                     break;
-
             }
-        } while (spinw != 0);
 
         return  spinw;
     } // end spinwheel method
