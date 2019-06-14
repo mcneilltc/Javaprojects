@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 public class Puzzle {
     //Vowels vowels = new Vowels(puzzle);
     private String category = "Something";
-    private String solvedPuzzle = "";
+    public String solvedPuzzle = "";
     private String puzzleProgress ="";
 private ArrayList<String> puzzles;
 

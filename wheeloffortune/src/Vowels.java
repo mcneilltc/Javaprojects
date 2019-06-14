@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class Vowels {
     static ArrayList<Character> vowels;
+    private String solvedPuzzle;
 
     //public Vowels(Vowels vowels) {
 //        this.vowels = vowels;
@@ -31,7 +32,7 @@ public class Vowels {
     }
 
     public int instances(Character otherlets) {// # of instances a letter appears in puzzle
-        int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "").length();
+        int count = this.solvedPuzzle.length() - this.solvedPuzzle.replace(otherlets.toString(), "").length();
         String text = "There are ";
         if (count == 0) {
             text = "There is ";
@@ -41,7 +42,7 @@ public class Vowels {
     }
 
     public int vowinstances(Character vowels) {//# of instances a vowel appears in puzzle
-        int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "");
+        int count = this.solvedPuzzle.length() - this.solvedPuzzle.replace(vowels.toString(), "").length();
         String text = "There are ";
         if (count == 0) {
             text = "There is ";
