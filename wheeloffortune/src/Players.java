@@ -38,18 +38,18 @@ public class Players {
     public static ArrayList<String> getPlayers() {
         return players;
     }
-do{
-        Puzzle puzzle = new Puzzle();
-        do{
-            for(int i = 0; i <numplayers; i++){
-                Player currentPlayer = players.get(i);
-                boolean playerTurnOver =false;
-                do{
-
-                }while(playerTurnOver ==false);
-            }
-        }while(exitGame ==false  && puzzle.isSovled() ==false);
-    }while(exitGame ==false);
+//do{
+//        Puzzle puzzle = new Puzzle();
+//        do{
+//            for(int i = 0; i <numplayers; i++){
+//                Player currentPlayer = players.get(i);
+//                boolean playerTurnOver =false;
+//                do{
+//
+//                }while(playerTurnOver ==false);
+//            }
+//        }while(exitGame ==false  && puzzle.isSovled() ==false);
+//    }while(exitGame ==false);
 
 
     public static void choices(){
@@ -72,7 +72,7 @@ do{
             Spin.spinWheel();//spinwheel
             System.out.println("Spinning the wheel...");
             System.out.println("Enter a letter: ");//get consonant
-//
+score =
         break;
         case 3:
             //Vowels.buyvowel();  //buy vowel
