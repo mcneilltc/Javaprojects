@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rokpaprscis/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vowels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Players.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1701">
-              <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+            <state relative-caret-position="315">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1210#1211#0" expanded="true" />
@@ -43,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Puzzle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="607">
+              <caret line="43" column="62" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Spin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="530">
+              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -73,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Vowels.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
-              <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+            <state relative-caret-position="388">
+              <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -96,10 +97,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/Puzzles" />
         <option value="$PROJECT_DIR$/src/Menu.java" />
-        <option value="$PROJECT_DIR$/src/Vowels.java" />
-        <option value="$PROJECT_DIR$/src/Players.java" />
-        <option value="$PROJECT_DIR$/src/Puzzle.java" />
         <option value="$PROJECT_DIR$/src/Spin.java" />
+        <option value="$PROJECT_DIR$/src/Players.java" />
+        <option value="$PROJECT_DIR$/src/Vowels.java" />
+        <option value="$PROJECT_DIR$/src/Puzzle.java" />
       </list>
     </option>
   </component>
@@ -189,12 +190,12 @@
       <workItem from="1560223539459" duration="1672000" />
       <workItem from="1560347522381" duration="1780000" />
       <workItem from="1560363895901" duration="25605000" />
-      <workItem from="1560518906665" duration="3784000" />
+      <workItem from="1560518906665" duration="4933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68978000" />
+    <option name="totallyTimeSpent" value="70127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="538" y="23" width="913" height="877" extended-state="0" />
@@ -277,27 +278,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Puzzle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Spin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Players.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+        <state relative-caret-position="315">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1210#1211#0" expanded="true" />
@@ -310,10 +294,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Spin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Puzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="43" column="62" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Vowels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+        <state relative-caret-position="388">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
         </state>
       </provider>
     </entry>

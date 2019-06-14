@@ -40,7 +40,7 @@ RandomPuzzle();
     this.puzzleProgress = padLeft("", this.solvedPuzzle.length());
     applyLetterProgress(' ');
     }
-public boolean solvePuzzle(String guess){
+public boolean solvedPuzzle(String guess){
         if(guess.toUpperCase().trim().equals(this.solvedPuzzle)){
             this.puzzleProgress = this.solvedPuzzle;
             return true;

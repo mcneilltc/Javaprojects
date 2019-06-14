@@ -3,9 +3,9 @@ import java.util.ArrayList;
 public class Vowels {
     static ArrayList<Character> vowels;
 
-    public Vowels(Vowels vowels) {
-        this.vowels = vowels;
-    }
+    //public Vowels(Vowels vowels) {
+//        this.vowels = vowels;
+//    }
 
     public static void isVowel() {
         vowels = new ArrayList<>();
@@ -58,7 +58,7 @@ public class Vowels {
         } else {
             return Spin.spinWheel(spinw) * instances(otherlets);
         }//end of guesslesster
-
+    }
         public int buyvowel (Character vowels){//buying a vowel out of those available
             vowels = Character.toUpperCase(vowels);
             if (Character.isLetter(vowels) == false) {
@@ -68,5 +68,5 @@ public class Vowels {
                 return -50 * vowinstances(vowels);
             }
         }
-    }
+
 }
