@@ -4,10 +4,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Players {
-
      static ArrayList<String> players = new ArrayList<>();
      public static int score = 0;
      Spin spin = new Spin();
+     Puzzle puzzle = new Puzzle();
     public static  void players() {
 //        String player = new player("");
 //        System.out.println("Enter your name: ");
@@ -19,6 +19,8 @@ public class Players {
             System.out.println("Enter your name:");
             String player = name.next();
             players.add(player);
+            Players players = new Players();
+            players.setName(name);
             System.out.println("Would you like to add another player? Y/N");
             answer = name.next().toLowerCase().charAt(0);
             while(answer != 'y' && answer !='n'){
@@ -67,6 +69,7 @@ public class Players {
          break;
         case 1:
         //Puzzle.solvePuzzle();//solve puzzle
+
             System.out.println("Would you like to solve the puzzle? Y/N");
 //
         break;
