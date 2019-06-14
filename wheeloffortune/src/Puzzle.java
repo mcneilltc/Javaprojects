@@ -10,13 +10,23 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 
 public class Puzzle {
-    //Vowels vowels = new Vowels(puzzle);
+    public Puzzle(){
+Path path =Paths.get("Puzzles.txt");
+try{
+    System.out.println(" "+ path.toAbsolutePath().toString());
+this.puzzles =(ArrayList<String>)Files.readAllLines(path);
+    System.out.println(" "+ this.puzzles.size());
+}catch (IOException e) {
+    e.printStackTrace();
+}RandomPuzzle();
+    }
+    //Vowels vowels = new  Vowels(puzzle);
     private String category = "Something";
     public String solvedPuzzle = "";
     private String puzzleProgress ="";
 private ArrayList<String> puzzles;
 
-    public void puzzleToArray(ArrayList<String>arrList)throws  IOException{
+    public void puzzleToArray(ArrayList<String>arrList)throws IOException{
 Path path = Paths.get("Puzzles.txt");
 arrList.clear();
 try (Stream<String> lines = Files.lines(path)){
@@ -40,7 +50,9 @@ RandomPuzzle();
     this.puzzleProgress = padLeft("", this.solvedPuzzle.length());
     applyLetterProgress(' ');
     }
-public boolean solvedPuzzle(String guess){
+
+
+    public boolean solvedPuzzle(String guess){
         if(guess.toUpperCase().trim().equals(this.solvedPuzzle)){
             this.puzzleProgress = this.solvedPuzzle;
             return true;

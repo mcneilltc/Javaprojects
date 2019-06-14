@@ -6,6 +6,9 @@ public class Menu {
         ArrayList<Players> players = new ArrayList<Players>();
         //Players currentPlayer = players.get(1);
        //System.out.println("Current player is:" + currentPlayer.getName());
+        Puzzle puzzle = new Puzzle();
+        puzzle.RandomPuzzle();
+        System.out.println(puzzle.getSolvedPuzzle());
 
 Players.players();
 Players.choices();

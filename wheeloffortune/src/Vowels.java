@@ -22,6 +22,7 @@ public class Vowels {
     }
 
     public static void letters() {
+        isVowel();
         ArrayList<Character> otherlets = new ArrayList<>();
         for (int i = 65; i <= 90; i++) {
             if (!vowels.contains((char) i)) {
@@ -61,7 +62,7 @@ public class Vowels {
             return Spin.spinWheel() * instances(otherlets);
         }//end of guesslesster
     }
-        public int buyvowel (Character vowels){//buying a vowel out of those available
+        public int buyvowel(Character vowels){//buying a vowel out of those available
             vowels = Character.toUpperCase(vowels);
             if (Character.isLetter(vowels) == false) {
                 System.out.println("That \"" + vowels + "\" is not in the puzzle.");
