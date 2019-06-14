@@ -1,15 +1,17 @@
+import java.util.ArrayList;
+
 public class Menu {
-    ArrayList<Player> players = new ArrayList<Player>();
-    Player currentPlayer = players.get(1);
-System.out.println(“Current player is :” + currentPlayer.getName());
 
     public static void main(String[] args) {
+        ArrayList<Players> players = new ArrayList<Players>();
+        Players currentPlayer = players.get(1);
+       //System.out.println("Current player is:" + currentPlayer.getName());
 
-Players.players();
-Players.choices();
+//Players.players();
+//Players.choices();
 //Puzzle.RandomPuzzle();
-Spin.spinWheel();
-Vowels.letters();
+//Spin.spinWheel();
+//Vowels.letters();
 
 
     }
