@@ -72,7 +72,7 @@ public class Players {
             Spin.spinWheel();//spinwheel
             System.out.println("Spinning the wheel...");
             System.out.println("Enter a letter: ");//get consonant
-score =
+//score =
         break;
         case 3:
             //Vowels.buyvowel();  //buy vowel
