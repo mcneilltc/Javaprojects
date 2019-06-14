@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 public class Puzzle {
     public Puzzle(){
-Path path =Paths.get("Puzzles.txt");
+Path path =Paths.get("out/production/wheeloffortune/Puzzles.txt");
 try{
     System.out.println(" "+ path.toAbsolutePath().toString());
 this.puzzles =(ArrayList<String>)Files.readAllLines(path);
@@ -26,18 +26,18 @@ this.puzzles =(ArrayList<String>)Files.readAllLines(path);
     private String puzzleProgress ="";
 private ArrayList<String> puzzles;
 
-    public void puzzleToArray(ArrayList<String>arrList)throws IOException{
-Path path = Paths.get("Puzzles.txt");
-arrList.clear();
-try (Stream<String> lines = Files.lines(path)){
-    Object[] arr = lines.toArray();
-    for(Object t: arr){
-        arrList.add(t.toString());
-    }
-    System.out.println("#of puzzles:" + this.puzzles.size());
-}
-RandomPuzzle();
-    }
+//    public void puzzleToArray(ArrayList<String>arrList)throws IOException{
+//Path path = Paths.get("Puzzles.txt");
+//arrList.clear();
+//try (Stream<String> lines = Files.lines(path)){
+//    Object[] arr = lines.toArray();
+//    for(Object t: arr){
+//        arrList.add(t.toString());
+//    }
+//    System.out.println("#of puzzles:" + this.puzzles.size());
+//}
+//RandomPuzzle();
+//    }
 
     public static String padLeft(String s, int n){
         return String.format("%" +n + "s", s);
