@@ -28,7 +28,7 @@ try (Stream<String> lines = Files.lines(path)){
 RandomPuzzle();
     }
 
-    public static String padLeft(String s, int n){
+    public String padLeft(String s, int n){
         return String.format("%" +n + "s", s);
     }
     public void RandomPuzzle(){

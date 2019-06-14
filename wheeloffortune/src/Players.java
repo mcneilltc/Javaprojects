@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Players {
-    static ArrayList<String> players = new ArrayList<>();
-     static int score = 0;
-    public static void players() {
+     ArrayList<String> players = new ArrayList<>();
+      int score = 0;
+    public  void players() {
 //        String player = new player("");
 //        System.out.println("Enter your name: ");
         Scanner name = new Scanner(System.in);
@@ -33,7 +33,7 @@ public class Players {
 
 Puzzle puzzle = new Puzzle();
 
-    public static void choices(){
+    public void choices(){
     Scanner choice = new Scanner(System.in);
     System.out.println(" Make a choice: 1 - Solve Puzzle, 2 - Spin Wheel,  3 - Buy a Vowel, 0 - Quit Game");
     //char answer = choice.next().toLowerCase().charAt(0);
