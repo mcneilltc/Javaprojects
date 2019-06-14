@@ -30,7 +30,7 @@ public class Vowels {
         System.out.println(otherlets);
     }
 
-    public int instances (Character otherlets){// # of instances a letter appears in puzzle
+    public int instances(Character otherlets) {// # of instances a letter appears in puzzle
         int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "").length();
         String text = "There are ";
         if (count == 0) {
@@ -40,7 +40,7 @@ public class Vowels {
         return count;
     }
 
-    public int vowinstances (Character vowels){//# of instances a vowel appears in puzzle
+    public int vowinstances(Character vowels) {//# of instances a vowel appears in puzzle
         int count = this.solvePuzzle.length() - this.solvePuzzle.replace(vowels.toString(), "");
         String text = "There are ";
         if (count == 0) {
@@ -55,19 +55,18 @@ public class Vowels {
         if (Character.isLetter(otherlets) == false) {
             System.out.println("No \"" + otherlets + "\" is not in the puzzle.");
             return 0;
-        } else if (Character.isLetter(otherlets) == true) {
+        } else {
+            return Spin.spinWheel(spinw) * instances(otherlets);
+        }//end of guesslesster
 
+        public int buyvowel (Character vowels){//buying a vowel out of those available
+            vowels = Character.toUpperCase(vowels);
+            if (Character.isLetter(vowels) == false) {
+                System.out.println("That \"" + vowels + "\" is not in the puzzle.");
+                return 0;
+            } else {
+                return -50 * vowinstances(vowels);
+            }
         }
-        return Spin.spinWheel(spinw) * instances(otherlets);
-    }//end of guesslesster
-
-    public int buyvowel(Character vowels) {//buying a vowel out of those available
-        vowels = Character.toUpperCase(vowels);
-        if (Character.isLetter(vowels) == false) {
-            System.out.println("That \"" + vowels + "\" is not in the puzzle.");
-            return 0;
-        } else if (Character.isLetter(vowels) == true) {
-
-        }return -50 * vowinstances(vowels);
     }
 }
