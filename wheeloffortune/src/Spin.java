@@ -3,35 +3,35 @@ import java.util.Random;
 
 
 public class Spin {
-//
-    public static void spinWheel() {
+    //
+    public static int spinWheel() {
         int spinw = 0;
         Random spin = new Random();
-spinw = spin.nextInt(4)+1;
-do {
-    switch (spinw) {
-        case 0:
-            System.out.println("Bankrupt");
-            Players.score = 0;
-            break;
-        case 1:
-            //add if
-            Players.score = Players.score + 100;
-            break;
-        case 2:
-            //add if
-            Players.score = Players.score + 500;
-            break;
-        case 3:
-            Players.score = Players.score + 1000;
-            break;
-        default:
-            Players.score = Players.score + 0;
-            System.out.println("You lose a turn");
-            break;
+        spinw = spin.nextInt(4) + 1;
+        do {
+            switch (spinw) {
+                case 0:
+                    System.out.println("Bankrupt");
+                    Players.score = 0;
+                    break;
+                case 1:
+                    //add if
+                    Players.score = Players.score + 100;
+                    break;
+                case 2:
+                    //add if
+                    Players.score = Players.score + 500;
+                    break;
+                case 3:
+                    Players.score = Players.score + 1000;
+                    break;
+                default:
+                    Players.score = Players.score + 0;
+                    System.out.println("You lose a turn");
+                    break;
 
-    }
-}while (spinw != 0);
+            }
+        } while (spinw != 0);
 //         int bankrupt = -1;
 //         int loseTurn = 0;
 //        Random generator;
@@ -40,7 +40,8 @@ do {
 //          void Wheel(){
 //            generator = new Random();
 //            position = bankrupt;
-        }
+    } return int spinw;
+}
 //
 //public int getState(){
 //            int score;
@@ -112,4 +113,4 @@ do {
 //    public static void score(){
 //
 //    }
-}
+

@@ -53,11 +53,12 @@ public class Vowels {
 
     public int guessLetter(Character otherlets) {//guessing a letter out of the consonants
         otherlets = Character.toUpperCase(otherlets);
+        //boolean spinw = true;
         if (Character.isLetter(otherlets) == false) {
             System.out.println("No \"" + otherlets + "\" is not in the puzzle.");
             return 0;
         } else {
-            return Spin.spinWheel(spinw) * instances(otherlets);
+            return Spin.spinWheel() * instances(otherlets);
         }//end of guesslesster
     }
         public int buyvowel (Character vowels){//buying a vowel out of those available
