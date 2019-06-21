@@ -19,8 +19,8 @@ public class Players {
             System.out.println("Enter your name:");
             String player = name.next();
             players.add(player);
-            Players players = new Players();
-            players.setName(name);
+            //Players players = new Players();
+            //players.setName(name);
             System.out.println("Would you like to add another player? Y/N");
             answer = name.next().toLowerCase().charAt(0);
             while(answer != 'y' && answer !='n'){
