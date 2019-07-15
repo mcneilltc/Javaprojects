@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:https="http://java.sun.com/JSP/Page"
+      xmlns:http="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>Create a New Blog</title>
     <div th:insert="fragments/styling :: head-style" ></div>
 </head>
-<body>
+<body style = "background-color: darkviolet;" >
 <div th:insert="fragments/navbar :: navbar" ></div>
 
 <div class="container">
-    <h1>Create a New Blog Post</h1>
-    <form action="#" th:action="@{/blog_posts/new}" th:object="${blogInfo}" method="post">
+    <h1 style = "text-align: center;">Create a New Blog Post</h1>
+    <form style ="border-color: gold;" action="#" th:action="@{/blog_posts/new}" th:object="${blogInfo}" method="post">
 
         <div class="form-group">
             <input type="text" class="form-control" placeholder="Blog Title..." th:field="*{title}" />
