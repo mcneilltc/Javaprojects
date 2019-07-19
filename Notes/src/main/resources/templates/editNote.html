@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Notes</title>
+    <div th:insert="fragments/css :: head-style"></div>
+</head>
+<body>
+<div th:insert="fragments/css :: body-links"></div>
+<div class="container">
+    <div th:replace="fragments/navbar"></div>
+    <div>
+        <h2>Notes</h2>
+        <form action="#" th:action="@{'/notes/{id}/edit' (id=$notes.getId()})}" th:object="${note}" method="post">
+            <div class="form-group">
+                <textarea rows="1" placeholder="Title" class="form-control" ></textarea>
+                <textarea rows="5" placeholder="What's your note?" class="form-control"></textarea>
+            </div>
+            <button class="btn btn-primary">Submit Your Post</button>
+        </form>
+</body>
+</html>
