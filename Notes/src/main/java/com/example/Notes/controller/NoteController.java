@@ -10,30 +10,41 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @Controller
 public class NoteController {
-    @Autowired
-    private NoteService noteService;
+
+    private NoteRepository noterepository;
+    private List<Note> note;
+//
+//    @Autowired
+//    private NoteService noteService;
+
+    public NoteController(List<Note>note, NoteRepository noteRepository){
+        this.noterepository= noteRepository;
+        this.note = note;
+    }
 
     @GetMapping(value = "/")
     public String getNotes(Model model){
-        List<Note> noteList = noteService.findAll();
+        List<Note> noteList = noterepository.findAll();
         model.addAttribute("notes", noteList);
-        return "notes";
+        return "/notes";
     }
 
-    @GetMapping(value = "/note/new")
+    @GetMapping(value = "/notes/new")
     public String getNewNote(Model model){
         model.addAttribute("newNote", new Note());
         return "newNote";
     }
     @PostMapping(value = "/note/new")
     public String postNewNote(Note note, Model model){
-        noteService.save(note);
+        noterepository.save(note);
         //notes.add(note);
         model.addAttribute("title", note.getTitle());
         model.addAttribute("body", note.getBody());
+        model.addAttribute("noteEntry", note.getNoteEntry());
         return "newNote";
     }
 
@@ -43,31 +54,45 @@ public class NoteController {
 //        return "redirect:/";
 //    }
 
-@RequestMapping(value="/note/edit/{id}", method= RequestMethod.GET)
-    public String editnotes(@PathVariable("id") Long id, Model model){
-        model.addAttribute("editnote", noteService.findAll());
-        return "edit";
-}
-
-@PutMapping("/note/{id}/delete")
-    public String editNote(Note note, Model model){
-        noteService.save(note);
+@PutMapping("/note/{id}/edit")
+    public String editNoteEntry( Note note, Model model){
+        model.addAttribute("editnote", noterepository.findAll());
+        noterepository.save(note);
         mirrorDB();
         model.addAttribute("title", note.getTitle());
         model.addAttribute("body", note.getBody());
-        Model noteEntry= model.addAttribute("noteEntry",note.getId());
-        return "newNote";
+        Model noteEntry = model.addAttribute("noteEntry", note.getNoteEntry());
+        return "result";
 }
+@GetMapping("note/{id}/edit")
+public String editNoteEntryView(@PathVariable("id")Long id, Model model){
+        Optional<Note> optionalNote = noterepository.findById(id);
+        model.addAttribute("note", optionalNote.get());
+        return "edit";
+}
+
+//@PutMapping("/note/{id}/delete")
+//    public String editNote(Note note, Model model){
+//        noteService.save(note);
+//        mirrorDB();
+//        model.addAttribute("title", note.getTitle());
+//        model.addAttribute("body", note.getBody());
+//        Model noteEntry= model.addAttribute("noteEntry",note.getId());
+//        return "newNote";
+//}
 
 @DeleteMapping("/note/{id}/delete")
     public String deleteNote(@PathVariable("id")Long id){
-        noteService.deleteById(id);
+        noterepository.deleteById(id);
         mirrorDB();
         return "result";
 }
 
     private void mirrorDB() {
-        Iterable<Note> noteList = noteService.findAll();
-        //note.clear();
+        Iterable<Note> noteList = noterepository.findAll();
+        note.clear();
+        for(Note note: noteList){
+            note.add(note);
+        }
     }
 }

@@ -27,10 +27,12 @@ public class Note {
 
 
 
+
 //    @ManyToOne(fetch = FetchType.LAZY, optional=false)
 //    @JoinColumn(name = "note_id")
     @OnDelete(action= OnDeleteAction.CASCADE)
     private String title;
+    private String noteEntry;
 
     @NotEmpty(message= "Note cannot be empty")
     private String body;
@@ -39,9 +41,10 @@ public class Note {
     @CreationTimestamp
     private Date createdAt;
 
-    public Note(String title, @NotEmpty(message = "Note cannot be empty") String body) {
+    public Note(String title, String noteEntry, @NotEmpty(message = "Note cannot be empty") String body) {
         this.title = title;
         this.body = body;
+        this.noteEntry = noteEntry;
     }
 
     @Override
@@ -50,7 +53,27 @@ public class Note {
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", body='" + body + '\'' +
+                ", noteEntry='" + noteEntry + '\'' +
                 '}';
+    }
+
+    public String getNoteEntry() {
+        return noteEntry;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getBody() {
+        return body;
+    }
+
+    public void add(Note note) {
     }
 }
 

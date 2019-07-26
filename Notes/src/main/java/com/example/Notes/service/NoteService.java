@@ -23,8 +23,8 @@ public class NoteService {
     }
 
     public List<Note> findAll() {
-        List<Note> notes = noteRepository.findAll();
-        return notes;
+        List<Note> note = noteRepository.findAll();
+        return note;
     }
 
     public void deleteNote(Long id) {

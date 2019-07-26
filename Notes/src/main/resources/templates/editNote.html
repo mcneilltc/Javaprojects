@@ -11,12 +11,16 @@
     <div th:replace="fragments/navbar"></div>
     <div>
         <h2>Notes</h2>
-        <form action="#" th:action="@{'/notes/{id}/edit' (id=$notes.getId()})}" th:object="${note}" method="post">
+        <form action="#" th:action="@{'/notes/{id}/edit' (id=$notes.getId()})}" th:object="${note}" method="put">
             <div class="form-group">
-                <textarea rows="1" placeholder="Title" class="form-control" ></textarea>
-                <textarea rows="5" placeholder="What's your note?" class="form-control"></textarea>
+                <textarea rows="1" placeholder="Title" class="form-control" th:field="*{title}"></textarea>
             </div>
-            <button class="btn btn-primary">Submit Your Post</button>
+            <div class="form-group">
+                <textarea rows="5" placeholder="What's your note?" class="form-control" th:field="*{body}"></textarea>
+            </div>
+            <button class="btn btn-success">Submit Your Post</button>
         </form>
+    </div>
+    <div th:insert="fragments/styling :: body-links"></div>
 </body>
 </html>
